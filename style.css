@@ -10,12 +10,12 @@ body {
     grid-template-rows: 25vh 25vh;
     width: 100%;
     margin: 0 auto;
-    background: black;
+
 }
 
 
 
 duotone-image{
     grid-column: span 1;
-    grid-row: span 1;
+    grid-row: span 2;
 }
