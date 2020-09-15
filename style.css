@@ -7,6 +7,7 @@ body {
 .row {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(50%,1fr));
+    grid-template-rows: repeat(auto-fit, minmax(50%,1fr));
     width: 100%;
     margin: 0 auto;
     background: black;
@@ -20,5 +21,4 @@ duotone-image{
 }
 
 duotone-image:nth-of-type(3n+1) {
-    flex: 66%;
 }
