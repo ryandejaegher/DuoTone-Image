@@ -47,16 +47,15 @@
   figure {
   display: block;
   margin: 0;
-
   position: relative;
-  overflow:hidden;
+
   }
   
   .wrapper img {
     filter: grayscale(1) contrast(var(--contrast));
     width: 100%;
     max-width: 100%;
-    height: auto;
+    height: ;
     object-fit: cover;
     mix-blend-mode: multiply;
     position: absolute;
