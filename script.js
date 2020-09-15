@@ -186,7 +186,14 @@
         this.checkContrast();
       }
 
-      
+      attributeChangedCallback(name, oldValue, newValue) {
+        switch (name) {
+            // Case value is the name of the attribute that has changed
+          case 'hue':
+            console.log(`Value changed from ${oldValue} to ${newValue}`);
+            break;
+        }
+      }
     }
     window.customElements.define("duotone-image", DuotoneImage);
   })();
