@@ -30,7 +30,7 @@
   .wrapper {
     --saturation: 60%;
     --lightness: 70%;
-    --spacing: 64px;
+    --spacing: 0px;
     --contrast: 0.5;
     position: relative;
     background-color: hsla(
