@@ -13,5 +13,5 @@ body {
 
 duotone-image {
     flex: 33%; 
-    height: 100%;
+    flex-grow: 0;
 }
