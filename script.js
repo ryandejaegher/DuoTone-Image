@@ -40,15 +40,17 @@
       1
     );
     padding: var(--spacing);
+    position: relative;
   }
   
   
   figure {
   display: block;
   margin: 0;
-  position: relative;
+  padding-bottom: var(--aspect-ratio);
   height: 100%;
-  width: 100%;
+  position: relative;
+  overflow:hidden;
   }
   
   .wrapper img {
@@ -59,6 +61,8 @@
     object-fit: cover;
     mix-blend-mode: multiply;
     position: absolute;
+    top:0;
+    left:0;
     display: block;
   }
   
