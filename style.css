@@ -6,9 +6,9 @@ body {
 .row {
     display: flex;
     flex-wrap: wrap;
+    height: 100vh;
 }
 
 duotone-image {
-    flex: 33%;
-    height: 20vh;
+    flex: 33%;  ;
 }
