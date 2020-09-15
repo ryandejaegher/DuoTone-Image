@@ -40,7 +40,6 @@
       1
     );
     padding: var(--spacing);
-
   }
   
   
