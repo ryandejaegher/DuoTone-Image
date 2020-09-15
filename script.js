@@ -50,7 +50,7 @@
 
   height: 100%;
   position: relative;
-  overflow:hidden;
+
   }
   
   .wrapper img {
