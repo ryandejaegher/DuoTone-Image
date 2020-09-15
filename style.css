@@ -13,6 +13,7 @@ body {
 
 duotone-image {
     flex: 25%;
+    align-self:stretch;
 }
 
 duotone-image:nth-of-type(5n+5) {
