@@ -19,7 +19,6 @@ duotone-image{
     grid-column: span 1;
     grid-row: span 1;
     align-self: center;
-    overflow: hidden;
 
 }
 
