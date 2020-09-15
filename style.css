@@ -13,7 +13,6 @@ body {
 
 duotone-image {
     flex: 50%; 
-    flex-grow: 0;
 }
 
 duotone-image:nth-of-type(2n+1) {
