@@ -47,10 +47,10 @@
   figure {
   display: block;
   margin: 0;
-    width: 100%;
-  height: 100%;
+  padding-bottom: var(--aspect-ratio);
+  height:
   position: relative;
-
+  overflow:hidden;
   }
   
   .wrapper img {
