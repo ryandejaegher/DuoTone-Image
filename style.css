@@ -13,11 +13,11 @@ body {
 
 duotone-image {
     flex: 25%;
-    align-self: center;
+    align-self: top;
 
 }
 
-duotone-image:nth-of-type(4n+2){
+duotone-image:nth-of-type(5n+2){
     flex: 50% !important;
-    border: 1px solid red;
+
 }
