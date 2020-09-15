@@ -8,6 +8,7 @@
   :host {
   display: block;
   width: 100%;
+  position:relative
   }
   
   :host([aspect="1/1"]) figure {
