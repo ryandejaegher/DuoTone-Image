@@ -16,6 +16,7 @@ body {
 duotone-image{
     grid-column: span 1;
     grid-row: span 3;
+    align-self: stretch;
 }
 
 duotone-image:nth-of-type(5n+1) {
