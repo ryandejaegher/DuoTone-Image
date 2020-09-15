@@ -15,7 +15,7 @@ body {
 
 duotone-image{
     flex: 33.3%;
-    align-self: center;
+    align-self: bottom;
 }
 
 duotone-image:nth-of-type(3n+1) {
