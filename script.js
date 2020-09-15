@@ -186,7 +186,7 @@
             // Case value is the name of the attribute that has changed
           case 'hue':
             console.log(`${name} changed from ${oldValue} to ${newValue}`);
-            
+            this.checkHue()
             break;
         }
       }
