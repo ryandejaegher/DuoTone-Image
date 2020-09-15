@@ -97,7 +97,6 @@
         return ["src","hue"];
       }
   
-      
   
       get hue() {
         return this.getAttribute("hue");
