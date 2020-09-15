@@ -11,7 +11,7 @@ body {
     margin: 0 auto;
 }
 
-duotone-image:nth-of-type(4n) {
+duotone-image:nth-of-type(-n+4) {
     flex: 25%;
     align-self: center;
 
