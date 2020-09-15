@@ -26,6 +26,6 @@ duotone-image{
 
 duotone-image:nth-of-type(4n+1){
     grid-column: span 6;
-    
+    grid-row: span 2;
 }
 
