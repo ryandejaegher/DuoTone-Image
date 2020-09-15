@@ -8,9 +8,9 @@ body {
     flex-wrap: wrap;
     max-height: 100vh;
     border: 1px solid blue;
-    overflow: hidden;
 }
 
 duotone-image {
     flex: 33%; 
+    height: 100%;
 }
