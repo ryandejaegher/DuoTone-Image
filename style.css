@@ -6,7 +6,7 @@ body {
 .row {
     display: flex;
     flex-wrap: wrap;
-    height: 100vh;
+    maxheight: 100vh;
     border: 1px solid blue;
     
 }
