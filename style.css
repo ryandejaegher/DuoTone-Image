@@ -20,5 +20,5 @@ duotone-image{
 
 duotone-image:nth-of-type(5n+1) {
     grid-column: span 2;
-    align-self: flex-end;
+    align-self: end;
 }
