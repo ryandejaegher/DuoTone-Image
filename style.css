@@ -12,12 +12,11 @@ body {
 }
 
 
-
-duotone-image:nth-of-type(5n+1){
+duotone-image {
     grid-column: span 12;
 }
 
-duotone-image:nth-of-type(6n+4) {
-    grid-column: span 6;
+duotone-image:nth-of-type(4n+4) {
+    grid-column: span 3;
 }
 
