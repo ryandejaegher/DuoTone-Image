@@ -12,9 +12,9 @@ body {
 }
 
 duotone-image:nth-of-type(2n+2) {
-    flex: 50% 0; 
+    flex: 50% 1; 
 }
 
 duotone-image:nth-of-type(2n+3) {
-    flex:25% 0; 
+    flex:25% 1; 
 }
