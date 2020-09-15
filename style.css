@@ -20,10 +20,12 @@ body {
 
 duotone-image{
     grid-column: span 2;
+    grid-row: span 3;
 }
+
 
 duotone-image:nth-of-type(4n+1){
     grid-column: span 6;
-    grid-row: span 3;
+    
 }
 
