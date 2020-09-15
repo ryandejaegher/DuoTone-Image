@@ -41,7 +41,6 @@
     );
     padding: var(--spacing);
     position: relative;
-    height: 100%;
   }
   
   
