@@ -12,5 +12,5 @@ body {
 }
 
 duotone-image:nth-of-type(2n+2) {
-    flex: 75%; 
+    flex: 50%; 
 }
