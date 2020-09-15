@@ -97,11 +97,7 @@
         return ["src","hue"];
       }
   
-      attributeChangedCallback(name, oldValue, newValue) {
-        name = newValue;
-        console.log("change");
-        this.checkSrc();
-      }
+      
   
       get hue() {
         return this.getAttribute("hue");
