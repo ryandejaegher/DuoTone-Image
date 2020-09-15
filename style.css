@@ -8,6 +8,7 @@ body {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(20%,1fr));
     width: 50%;
+    height: 100vh;
     margin: 0 auto;
 }
 
