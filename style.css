@@ -10,7 +10,7 @@ body {
     grid-template-rows: 25vh 25vh;
     width: 100%;
     margin: 0 auto;
-    background: black;
+    border: 8px solid red;
 }
 
 
