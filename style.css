@@ -18,6 +18,6 @@ duotone-image{
     grid-column: span 1;
 }
 
-d
-
-duotone-image {}
+duotone-image:nth-of-type(4n+2) {
+    grid-column: span 2;
+}
