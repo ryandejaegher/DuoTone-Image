@@ -190,7 +190,7 @@
         switch (name) {
             // Case value is the name of the attribute that has changed
           case 'hue':
-            console.log(`Value changed from ${oldValue} to ${newValue}`);
+            console.log(`${name} changed from ${oldValue} to ${newValue}`);
             //this.setAttribute('hue', newValue)
             break;
         }
