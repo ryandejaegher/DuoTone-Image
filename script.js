@@ -29,7 +29,7 @@
   .wrapper {
     --saturation: 60%;
     --lightness: 70%;
-    --spacing: 20px;
+    --spacing: 8px;
     --contrast: 0.5;
     position: relative;
     background-color: hsla(
@@ -198,6 +198,6 @@
 var images = document.querySelectorAll('duotone-image');
 
 images.forEach((image,index) =>{
-    image.hue = 150 + (index*10)
+    image.hue = 150 + (index*5)
     console.log(image)
 })
