@@ -8,7 +8,7 @@ body {
     flex-wrap: wrap;
     width: 50%;
     border: 1px solid blue;
-align-items: center;
+    align-items: center;
 }
 
 duotone-image {
