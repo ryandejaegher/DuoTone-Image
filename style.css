@@ -16,6 +16,6 @@ duotone-image {
     align-self:stretch;
 }
 
-duotone-image:nth-of-type(5n+5) {
+duotone-image:nth-of-type(5n+4) {
     flex: 50%;
 }
