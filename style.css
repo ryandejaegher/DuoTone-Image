@@ -17,7 +17,7 @@ duotone-image {
 
 }
 
-duotone-image:nth-of-type(5n+2){
-    flex: 50%;
+duotone-image:nth-of-type4n+2){
+    flex: 50% !important;
     border: 1px solid red;
 }
