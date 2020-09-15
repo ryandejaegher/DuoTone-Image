@@ -17,5 +17,5 @@ body {
 
 duotone-image{
     grid-column: span 2;
-    align-self: bottom;
+    grid-row: span 1;
 }
