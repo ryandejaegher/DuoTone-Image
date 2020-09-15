@@ -8,8 +8,8 @@ body {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
 
-    grid-auto-rows: minmax(50%,1fr);
-    grid-auto-flow: row dense;
+    grid-auto-rows: minmax(1fr,1fr);
+
     width: 100%;
     max-width: 100%;
     max-height: 100vh;
@@ -20,12 +20,10 @@ body {
 
 duotone-image{
     grid-column: span 2;
-    grid-row: span 3;
 }
-
 
 duotone-image:nth-of-type(4n+1){
     grid-column: span 6;
-    grid-row: span 2;
+    grid-row: span ;
 }
 
