@@ -199,6 +199,6 @@
 var images = document.querySelectorAll('duotone-image');
 
 images.forEach((image,index) =>{
-    image.hue = 150 + (index*5)
+    image.hue = 150 + (index*10)
     console.log(image)
 })
