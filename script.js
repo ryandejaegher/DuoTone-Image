@@ -47,7 +47,8 @@
   figure {
   display: block;
   margin: 0;
-
+  padding-bottom: var(--aspect-ratio);
+  height: 100%;
   position: relative;
   overflow:hidden;
   }
