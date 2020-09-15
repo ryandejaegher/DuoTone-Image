@@ -6,7 +6,7 @@ body {
 
 .row {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(20%,1fr));
+    grid-template-columns: repeat(auto-fit, minmax(8.333%,1fr));
     width: 100%;
     margin: 0 auto;
 }
@@ -14,10 +14,10 @@ body {
 
 
 duotone-image{
-    grid-column: span 2;
+    grid-column: span 12;
 }
 
-duotone-image:nth-of-type(3n+1) {
+duotone-image:nth-of-type(3n+4) {
     grid-column: span 4;
 }
 
