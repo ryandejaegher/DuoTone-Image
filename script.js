@@ -30,7 +30,7 @@
   .wrapper {
     --saturation: 60%;
     --lightness: 70%;
-    --spacing: 0px;
+    --spacing: 4px;
     --contrast: 0.5;
     position: relative;
     background-color: hsla(
@@ -56,6 +56,7 @@
     filter: grayscale(1) contrast(var(--contrast));
     width: 100%;
     max-width: 100%;
+    height: 100%;
     object-fit: cover;
     mix-blend-mode: multiply;
     position: absolute;
