@@ -48,7 +48,7 @@
   display: block;
   margin: 0;
   position: relative;
-
+  height: 100%;
   }
   
   .wrapper img {
