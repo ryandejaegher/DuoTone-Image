@@ -6,7 +6,7 @@ body {
 
 .row {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(25%,1fr));
+    grid-template-columns: repeat(auto-fit, minmax(25%,1fr));
     grid-template-rows: 25vh 25vh;
     width: 100%;
     margin: 0 auto;
