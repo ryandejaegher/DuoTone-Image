@@ -6,7 +6,7 @@ body {
 
 .row {
     display: grid;
-    flex-wrap: wrap;
+    grid-template-columns: repeat(auto-fit, 2fr);
     width: 100%;
     margin: 0 auto;
     background: black;
