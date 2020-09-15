@@ -11,12 +11,12 @@ body {
     margin: 0 auto;
 }
 
-duotone-image:nth-of-type(-1n+4) {
+duotone-image {
     flex: 25%;
     align-self: center;
 
 }
 
-duotone-image:nth-of-type(n+5){
+duotone-image:nth-of-type(5n){
     flex: 50%;
 }
