@@ -94,7 +94,7 @@
       }
   
       static get observedAttributes() {
-        return ["src"];
+        return ["src","hue"];
       }
   
       attributeChangedCallback(name, oldValue, newValue) {
