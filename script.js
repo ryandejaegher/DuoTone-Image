@@ -185,6 +185,8 @@
         this.checkAlt();
         this.checkContrast();
       }
+
+      
     }
     window.customElements.define("duotone-image", DuotoneImage);
   })();
