@@ -8,11 +8,11 @@ body {
     flex-wrap: wrap;
     height: 100vh;
     border: 1px solid blue;
-    
+    align-content: center;
 }
 
 duotone-image {
     flex: 33.3%; 
     flex-grow: 0;
-    
+
 }
