@@ -201,4 +201,6 @@
 
 var images = document.querySelectorAll('duotone-image');
 
-images.forEach(i)
+images.forEach((image,index) =>{
+
+})
