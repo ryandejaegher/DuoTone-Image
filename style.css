@@ -22,7 +22,7 @@ duotone-image:nth-of-type(5n+1) {
     grid-column: span 3;
 }
 duotone-image:nth-of-type(3n+1) {
-    align-self: en;
+    align-self: end;
     grid-row: span 2;
     grid-row-start: auto;
 }
