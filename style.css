@@ -9,6 +9,7 @@ body {
     width: 50%;
     border: 1px solid blue;
     align-items: center;
+    margin-0: auto;
 }
 
 duotone-image {
