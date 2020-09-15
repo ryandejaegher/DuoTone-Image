@@ -8,6 +8,7 @@ body {
     flex-wrap: wrap;
     max-height: 100vh;
     border: 1px solid blue;
+    overflow: none;
 }
 
 duotone-image {
