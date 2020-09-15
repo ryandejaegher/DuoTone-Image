@@ -48,7 +48,7 @@
   margin: 0;
   padding-bottom: var(--aspect-ratio);
   position: relative;
-  overflow:hidden;
+  overflow:;
   }
   
   .wrapper img {
