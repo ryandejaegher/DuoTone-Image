@@ -9,7 +9,6 @@ body {
     grid-template-columns: repeat(auto-fit, minmax(20%,1fr));
     width: 100%;
     margin: 0 auto;
-    background: linear-gradient(to bottom, white, black);
 }
 
 
