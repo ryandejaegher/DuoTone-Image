@@ -19,6 +19,6 @@ duotone-image:nth-of-type(5n+1) {
     flex:33% 2 2; 
 }
 
-duotone-image:nth-of-type(5n+1) {
+duotone-image:nth-of-type(2n+1) {
     flex:25% 2 2; 
 }
