@@ -16,6 +16,6 @@ duotone-image {
     flex-grow: 0;
 }
 
-duotone-image {
-
+duotone-image:nth-of-type(2) {
+    flex: 25%;
 }
