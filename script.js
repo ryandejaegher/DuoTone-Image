@@ -48,6 +48,7 @@
   margin: 0;
   position: relative;
   height: 100%;
+  width: 100%;
   }
   
   .wrapper img {
