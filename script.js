@@ -202,5 +202,5 @@
 var images = document.querySelectorAll('duotone-image');
 
 images.forEach((image,index) =>{
-    image.hue = image
+    image.hue = 300
 })
