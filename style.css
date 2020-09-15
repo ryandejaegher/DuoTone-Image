@@ -10,3 +10,6 @@ body {
     margin: 0 auto;
 }
 
+duotone-image {
+    flex: 50%;
+}
