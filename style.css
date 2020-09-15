@@ -20,7 +20,7 @@ duotone-image{
 }
 
 duotone-image:nth-of-type(5n+1) {
-    grid-column: span 3;
+    grid-column: span 4;
 }
 duotone-image:nth-of-type(3n+1) {
     align-self: stretch;
