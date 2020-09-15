@@ -40,7 +40,7 @@
       1
     );
     padding: var(--spacing);
-    position: relative;
+
   }
   
   
