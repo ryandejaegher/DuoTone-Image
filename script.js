@@ -47,10 +47,9 @@
   figure {
   display: block;
   margin: 0;
-width: 100%;
-  height: 100%;
+  padding-bottom: var(--aspect-ratio);
   position: relative;
-
+  overflow:hidden;
   }
   
   .wrapper img {
@@ -61,8 +60,6 @@ width: 100%;
     object-fit: cover;
     mix-blend-mode: multiply;
     position: absolute;
-    top:0;
-    left:0;
     display: block;
   }
   
